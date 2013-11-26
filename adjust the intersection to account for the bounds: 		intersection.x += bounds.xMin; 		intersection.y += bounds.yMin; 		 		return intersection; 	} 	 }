@@ -5,4 +5,6 @@
 		img.draw(p_clip1,mat, new ColorTransform(1,1,1,1,255,-255,-255,p_alphaTolerance));
 		
 		//this is entered by Cy test
+		
+		// second changed by Cy
 
